@@ -148,5 +148,4 @@ python blackjack.py
 - Push returns the player's bet without loss.
 - Bad inputs are handled gracefully.
 
-
-[1] https://github.com/abydow/Black-jack-game
+ https://github.com/abydow/Black-jack-game
